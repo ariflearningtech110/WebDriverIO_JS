@@ -1,2 +1,2 @@
-# WebDriverIO_Using_JavaScript
+# WebDriverIO_JS
 WDIO along with JS
